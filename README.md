@@ -64,3 +64,18 @@ TM System
     1. Windows + r
     1. "cmd"
     1. Enter
+
+1. ディレクトリ移動
+
+    ```
+    cd c:/@dev/tm/docker/
+    ```
+
+1. コンテナ起動
+
+    ```
+    docker-compose up -d
+    ```
+1. 起動確認
+
+    [pgAdmin](http://localhost:8081/)
