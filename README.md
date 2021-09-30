@@ -19,13 +19,13 @@ TM System
 
 ## 開発環境構築
 ### 必要アプリ
-- [pleiades](https://mergedoc.osdn.jp/)
+- [pleiades](https://mergedoc.osdn.jp/){:target="_blank"}
     - バージョン: 2021-09
     - Edition: Java Full Edition
 
-- [TortoiseGit](https://tortoisegit.org/)
+- [TortoiseGit](https://tortoisegit.org/){:target="_blank"}
 
-- [Docker Desktop](https://www.docker.com/)
+- [Docker Desktop](https://www.docker.com/){:target="_blank"}
 
 ### 環境構築手順
 #### 必要アプリインストール
@@ -78,4 +78,4 @@ TM System
     ```
 1. 起動確認
 
-    [pgAdmin](http://localhost:8081/)
+    [pgAdmin](http://localhost:8081/){:target="_blank"}
