@@ -89,7 +89,7 @@
 				<is_open_after_saved>false</is_open_after_saved>
 			</export_html_setting>
 			<export_image_setting>
-				<output_file_path></output_file_path>
+				<output_file_path>db/tm.png</output_file_path>
 				<category_dir_path></category_dir_path>
 				<with_category_image>true</with_category_image>
 				<is_open_after_saved>true</is_open_after_saved>
@@ -138,7 +138,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2021-09-29 19:51:31</creation_date>
-			<updated_date>2021-09-29 22:54:44</updated_date>
+			<updated_date>2021-10-02 19:41:58</updated_date>
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
