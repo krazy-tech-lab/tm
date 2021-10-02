@@ -7,9 +7,14 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class IndexController extends BaseController {
 
-	@GetMapping("/")
+	@GetMapping("/yutaro")
 	public String init(Model model) {
-        model.addAttribute("message", "Hello Thymeleaf!!");
+        model.addAttribute("message", "jjjijiiiji");
         return "index";
+	}
+	@GetMapping("/yuki")
+	public String inini(Model model) {
+        model.addAttribute("message", "yuki");
+        return "index2";
 	}
 }
